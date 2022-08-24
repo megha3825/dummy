@@ -1,2 +1,6 @@
 my name is megha......
 hellow/...
+
+megha sharma
+
+trying to revert the commit from remote.
